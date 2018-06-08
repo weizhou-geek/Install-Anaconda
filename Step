@@ -1,6 +1,6 @@
 1.Download: Anaconda3-5.2.0-Linux-x86_64.sh;
 2.Command: bash anaconda-latest-linux-x86_64.sh
-3.# Set PATH: add the bin folder of Anaconda的bin to PATH
+3.# Set PATH: add the bin folder of Anaconda/bin to PATH
 echo 'export PATH="~/anaconda3/bin:$PATH"' >> ~/.bashrc
 4.# Update bashrc
 source ~/.bashrc
